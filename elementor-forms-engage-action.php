@@ -2,14 +2,11 @@
 /**
  * Plugin Name: Elementor Forms Engage Action
  * Description: Custom addon which adds a user to Engage after form submission.
- * Plugin URI:  https://elementor.com/
+ * Plugin URI:  https://github.com/engage-so/elementor-form-action
  * Version:     1.0.0
- * Author:      Elementor Developer
- * Author URI:  https://developers.elementor.com/
+ * Author:      Opeyemi Obembe
+ * Author URI:  https://engage.so/
  * Text Domain: elementor-forms-engage-action
- *
- * Elementor tested up to: 3.16.0
- * Elementor Pro tested up to: 3.16.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
